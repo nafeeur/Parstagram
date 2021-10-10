@@ -16,6 +16,7 @@
 		19735A4F2713583F003016F2 /* ParstagramTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19735A4E2713583F003016F2 /* ParstagramTests.swift */; };
 		19735A592713583F003016F2 /* ParstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19735A582713583F003016F2 /* ParstagramUITests.swift */; };
 		19735A5B2713583F003016F2 /* ParstagramUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19735A5A2713583F003016F2 /* ParstagramUITestsLaunchTests.swift */; };
+		19735A68271358A6003016F2 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19735A67271358A6003016F2 /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		19735A542713583F003016F2 /* ParstagramUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParstagramUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		19735A582713583F003016F2 /* ParstagramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParstagramUITests.swift; sourceTree = "<group>"; };
 		19735A5A2713583F003016F2 /* ParstagramUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParstagramUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		19735A67271358A6003016F2 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				19735A392713583E003016F2 /* SceneDelegate.swift */,
 				19735A3B2713583E003016F2 /* ViewController.swift */,
 				19735A3D2713583E003016F2 /* Main.storyboard */,
+				19735A67271358A6003016F2 /* CameraViewController.swift */,
 				19735A402713583F003016F2 /* Assets.xcassets */,
 				19735A422713583F003016F2 /* LaunchScreen.storyboard */,
 				19735A452713583F003016F2 /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				19735A3C2713583E003016F2 /* ViewController.swift in Sources */,
+				19735A68271358A6003016F2 /* CameraViewController.swift in Sources */,
 				19735A382713583E003016F2 /* AppDelegate.swift in Sources */,
 				19735A3A2713583E003016F2 /* SceneDelegate.swift in Sources */,
 			);
